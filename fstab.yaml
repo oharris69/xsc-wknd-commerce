@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1CitVULjCM0hjlmgnXe4HU0milt_9oeB2
+  /: https://adobe-my.sharepoint.com/:f:/r/personal/oharris_adobe_com1/Documents/AEM/oharris-wknd-commerce
 
 folders:
   /products/: /products/default
